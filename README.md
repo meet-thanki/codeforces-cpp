@@ -10,7 +10,7 @@ Practice solutions for Codeforces ProblemSet.
 * **Timeline:** 2 Years
 
 ## 📊 Progress
-* **800-1200:** 1 solved
+* **800-1200:** 17 solved
 * **1300-1500:** 0 solved
 * **1600-1800:** 0 solved
 * **1900+:** 0 solved
